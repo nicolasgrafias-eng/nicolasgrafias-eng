@@ -1,16 +1,70 @@
-## Hi there 👋
+# Nicolas Mateus
 
-<!--
-**nicolasgrafias-eng/nicolasgrafias-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on building modern software with Python.
 
-Here are some ideas to get you started:
+Currently building Atlas Pay and BOCCE while continuously improving my backend engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I'm a software developer focused on backend development and scalable systems.
+
+I enjoy learning by building real-world products instead of only following tutorials.
+
+My goal is to create reliable, scalable software while continuously improving my knowledge of software architecture, APIs, databases and AI-assisted development.
+
+---
+
+## Projects
+
+### Atlas Pay
+
+Modern payment platform focused on scalable backend architecture.
+
+**Focus**
+
+- Backend Development
+- REST APIs
+- Authentication
+- Database Design
+- Software Architecture
+
+### BOCCE
+
+Premium fashion brand built on a modern e-commerce platform.
+
+**Focus**
+
+- E-commerce
+- Backend Development
+- User Experience
+- Performance
+
+---
+
+## Tech Stack
+
+- Python
+- REST APIs
+- SQL
+- Git
+- GitHub
+- HTML
+- CSS
+
+---
+
+## Currently Learning
+
+- Backend Architecture
+- API Design
+- Database Modeling
+- Software Engineering
+
+---
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/nicolas-mateus-07a600287/
+- Website: https://bocce.com.br
