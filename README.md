@@ -1,10 +1,13 @@
 # Nicolas Mateus
 
-Backend Developer focused on building modern software with Python.
+Backend Developer focused on building scalable software with Python.
 
-Currently building Atlas Pay and BOCCE while continuously improving my backend engineering skills.
+Currently developing two long-term projects:
 
----
+- Atlas Pay — Modern payment platform.
+- BOCCE — Premium e-commerce platform.
+
+While continuously improving my backend engineering skills.
 
 ## About
 
@@ -46,8 +49,8 @@ Premium fashion brand built on a modern e-commerce platform.
 ## Tech Stack
 
 - Python
-- REST APIs
 - SQL
+- REST APIs
 - Git
 - GitHub
 - HTML
@@ -66,5 +69,5 @@ Premium fashion brand built on a modern e-commerce platform.
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/nicolas-mateus-07a600287/
-- Website: https://bocce.com.br
+- [LinkedIn](https://www.linkedin.com/in/nicolas-mateus-07a600287/)
+- [BOCCE](https://bocce.com.br)
