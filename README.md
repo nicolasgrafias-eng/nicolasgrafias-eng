@@ -5,7 +5,9 @@ Backend Developer focused on building scalable software with Python.
 Currently developing long-term projects:
 
 AtlasPay — Backend / Python / APIs / Payments
+
 Agenda IA — Mobile / React Native / TypeScript / AI
+
 BOCCE — Full-stack / E-commerce
 
 ## About
