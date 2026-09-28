@@ -1,4 +1,4 @@
-# Nicolas Mateus
+# Nico Santos
 
 Backend Developer focused on building scalable software with Python.
 
