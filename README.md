@@ -1,72 +1,65 @@
 # Nico Santos
 
-Backend Developer focused on building scalable software with Python.
+### Python Developer | Backend Development | REST APIs
 
-Currently developing long-term projects:
+I'm a software developer focused on building backend systems, APIs, and digital products.
 
-AtlasPay — Backend / Python / APIs / Payments
-Agenda IA — Mobile / React Native / TypeScript / AI
-BOCCE — Full-stack / E-commerce
+I work primarily with **Python, Flask, PostgreSQL, REST APIs, Supabase, and Git**, while also expanding into mobile development with **React Native and TypeScript**.
 
-## About
-
-I'm a software developer focused on backend development and scalable systems.
-
-I enjoy learning by building real-world products instead of only following tutorials.
-
-My goal is to create reliable, scalable software while continuously improving my knowledge of software architecture, APIs, databases and AI-assisted development.
+My background in marketing, e-commerce, and visual communication gives me a product-oriented perspective on software development — understanding not only how to build a solution, but why it should exist.
 
 ---
 
-## Projects
+## 🚀 Projects
 
-### Atlas Pay
+### AtlasPay
+Payment platform focused on backend architecture, APIs, and payment infrastructure.
 
-Modern payment platform focused on scalable backend architecture.
+**Tech:** Python • Flask • PostgreSQL • Supabase • Stripe • REST APIs • JWT
 
-**Focus**
+---
 
-- Backend Development
-- REST APIs
-- Authentication
-- Database Design
-- Software Architecture
+### Agenda AI
+AI-powered mobile productivity application designed to turn goals into actionable plans and routines.
+
+**Tech:** React Native • Expo • TypeScript • Supabase • AI
+
+---
 
 ### BOCCE
+E-commerce platform where I work across web development, backend services, payments, and digital infrastructure.
 
-Premium fashion brand built on a modern e-commerce platform.
-
-**Focus**
-
-- E-commerce
-- Backend Development
-- User Experience
-- Performance
+**Tech:** Supabase • Stripe • Cloudflare • REST APIs • Git
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- Python
-- SQL
-- REST APIs
-- Git
-- GitHub
-- HTML
-- CSS
+**Backend**  
+Python • Flask • REST APIs • PostgreSQL • SQL • Supabase
 
----
+**Mobile**  
+React Native • Expo • TypeScript
 
-## Currently Learning
+**Tools & Infrastructure**  
+Git • GitHub • Stripe • Cloudflare
 
-- Backend Architecture
-- API Design
-- Database Modeling
-- Software Engineering
+**AI**  
+AI-assisted development • AI integrations
 
 ---
 
-## Connect
+## 🎯 Current Focus
+
+- Backend development with Python
+- REST API design and integrations
+- Database-driven applications
+- Software architecture fundamentals
+- Building and shipping real-world products
+
+---
+
+## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/nicolas-mateus-07a600287/)
 - [BOCCE](https://bocce.com.br)
