@@ -2,12 +2,11 @@
 
 Backend Developer focused on building scalable software with Python.
 
-Currently developing two long-term projects:
+Currently developing long-term projects:
 
-- Atlas Pay — Modern payment platform.
-- BOCCE — Premium e-commerce platform.
-
-While continuously improving my backend engineering skills.
+AtlasPay — Backend / Python / APIs / Payments
+Agenda IA — Mobile / React Native / TypeScript / AI
+BOCCE — Full-stack / E-commerce
 
 ## About
 
